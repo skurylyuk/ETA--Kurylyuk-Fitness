@@ -33,3 +33,10 @@ weeks to allow for a more accurate analysis. This consisted of 1,049,604 raw dat
 * Matplotlib and Seaborn for plotting
 * SQLite for data ingestion, storage and extraction
 * SQLAlchemy for extraction into python
+
+# Visualizations
+![Screen Shot 2022-01-18 at 1 13 52 PM](https://user-images.githubusercontent.com/88032642/150003335-202d2e73-590d-4888-bc52-f5c002fae6c1.png)
+
+![Screen Shot 2022-01-18 at 1 15 45 PM](https://user-images.githubusercontent.com/88032642/150003609-4ee254d9-406a-48b2-813c-84fffeec6099.png)
+
+
